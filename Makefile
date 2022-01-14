@@ -211,5 +211,6 @@ very-clean : clean
 	rm -rf src/OpenCorePkg/UDK
 
 clean :
-	rm -rf OpenCore-*.dmg OpenCoreEFIFolder-*.zip OpenCore-Image/ src/Lilu/build src/WhateverGreen/build src/OpenCorePkg/UDK/Build src/BrcmPatchRAM/build \
+	rm -rf OpenCore-Image/ src/Lilu/build src/WhateverGreen/build src/OpenCorePkg/UDK/Build src/BrcmPatchRAM/build \
 		src/AppleALC/build $(KEXTS) $(DRIVERS) $(TOOLS) $(MISC)
+	rm -f OpenCore-${RELEASE_VERSION}.dmg* OpenCore-${RELEASE_VERSION}.iso* OpenCoreEFIFolder-${RELEASE_VERSION}.zip 
