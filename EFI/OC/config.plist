@@ -1069,7 +1069,7 @@
                 <key>AdviseFeatures</key>
                 <false/>
                 <key>MLB</key>
-                <string>F5K937500GUK3F7CB</string>
+                <string>C02004701CDPHC1JC</string>
                 <key>MaxBIOSVersion</key>
                 <false/>
                 <key>ProcessorType</key>
@@ -1081,11 +1081,11 @@
                 <key>SystemMemoryStatus</key>
                 <string>Auto</string>
                 <key>SystemProductName</key>
-                <string>MacPro7,1</string>
+                <string>iMac20,1</string>
                 <key>SystemSerialNumber</key>
-                <string>F5KZD0DPP7QM</string>
+                <string>C02C5YYPPN5T</string>
                 <key>SystemUUID</key>
-                <string>6858E238-FF2B-4539-8E8A-773259B4ED0E</string>
+                <string>9E326E94-ACAB-468E-A981-D55EFA565500</string>
             </dict>
             <key>UpdateDataHub</key>
             <true/>
